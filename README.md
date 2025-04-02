@@ -44,6 +44,7 @@ Damit werden Anforderungen, Akzeptanzkriterien und regulatorische Vorgaben erstm
 - versionierbar
 - validierbar
 - auditierbar
+- automatisierbar
 
 Dies ermöglicht, einen Standard für einen sicheren Softwareentwicklungsprozess zu etablieren, der **alle regulatorischen und sicherheitskritischen Anforderungen von Beginn an berücksichtigt**.
 
@@ -96,19 +97,32 @@ Bereits frühzeitig sind geplant:
 - konkrete Anwendungsfälle
 - ein Git-Editor
 - ein Validierungsdienst
-- ein Audit-Framework  
+- ein Audit-Framework
 
-Diese Bausteine sind iterativ realisierbar und sorgen für konkrete Wirkung zur Steigerung von Verlässlichkeit, Entwicklungsgeschwindigkeit und regulatorischer Konformität in digitalen Transformationsprozessen und münden in einem sicheren Softwareentwicklungsprozess.
+
+Diese Bausteine sind iterativ realisierbar und garantieren eine wirkungsvolle Steigerung der Qualität, Verlässlichkeit, Entwicklungsgeschwindigkeit und regulatorischer Konformität in digitalen Transformationsprozessen. Unsere Digitalisierung wird in einen sicheren Softwareentwicklungsprozess überführt.
 
 ---
 
 ## 4. Technologische Stärken im Überblick
 
 - **Echtzeit-Versionierung**: Jede Änderung – ob an Anforderungen, Prozessen oder Gesetzen – wird in Echtzeit transparent, fälschungssicher und öffentlich nachvollziehbar gestaltet.
-- **Klartext statt Markup**: Inhalte werden menschen- und maschinenlesbar im Klartext gespeichert – statt in überkomplexen, proprietären Markup-Strukturen. Das senkt Barrieren und erleichtert Interoperabilität und Audits.
+- **Klartext statt Markup**: Inhalte werden menschen- und maschinenlesbar im Klartext gespeichert – statt in überkomplexen, proprietären Formaten. Vendor-Lockin Effekte werden gezielt eliminiert. Das senkt Barrieren, sichert nachhaltige Digitalisierung, erleichtert und beschleunigt Interoperabilität.
 - **Kollaborative Reviews**: Wie in der Softwareentwicklung sichern strukturierte Review-Prozesse Qualität, reduzieren Fehler und schaffen Vertrauen. Der Audit-Trail ist integraler Bestandteil.
-- **Governance-Struktur**: Rollen sind klar verteilt. Vorschläge können strukturiert eingebracht, gemeinsam validiert und revisionssicher umgesetzt werden.
-- **Nahtlose Umsetzung**: Genehmigte Änderungen lassen sich ohne Medienbruch direkt in operative Workflows übernehmen – mit klarer Prüfspur.
+- **Echte Sicherheitsbeweise**: In Tests nachgewiesene Akzeptanzkriterien liefern vertrauensvolle Sicherheit, Audits bescheinigen diese transparent.
+- **Governance-Struktur**: Rollen und Funktionen sind klar verteilt und dezentral organisiert. Vorschläge werden immer strukturiert und transparent nach dem Liquid Feedback Prinzip eingebracht, gemeinsam validiert und revisionssicher umgesetzt.
+- **Nahtlose Umsetzung**: Genehmigte Änderungen lassen sich ohne Technologie- oder Medienbruch direkt in operative Workflows übernehmen – immer mit klar zuordbarer Prüfsignatur.
+
+## 5. Value Proposition
+
+- **Automatisierbarkeit**: Anforderungen, Akzeptanzkriterien und regulatorische Vorgaben sind nicht nur versionierbar, validierbar und auditierbar – sondern auch automatisierbar.
+- **Skalierbarkeit**: Die Architektur ist darauf ausgelegt, mit steigender Komplexität und Nutzerzahl stabil und effizient zu skalieren.
+- **Eintrittshürden senken**: Die DSL ermöglicht es, auch kleinen Unternehmen und Start-ups, regulatorische Anforderungen sicher zu erfüllen.
+- **Enabling durch Struktur**: Durch definierte Prozesse, Tooling und Audits werden Organisationen befähigt, ihre digitalen Services schneller und sicherer auf den Markt zu bringen.
+- **Mehr Marktteilnehmer**: Durch reduzierte Komplexität und offene Standards wird die Einstiegshürde gesenkt – was zu mehr Vielfalt und Wettbewerbsfähigkeit führt.
+- **Unterstützung für Testing & Zulassung**: Die DSL bildet die Basis für automatisierte Testverfahren und transparente Zulassungsprozesse – insbesondere im regulierten Umfeld wie der Telematikinfrastruktur.
+- **Vielfalt unterstützen**: Unterschiedlichste Akteure – von Start-ups über mittelständische Unternehmen bis hin zu etablierten Konzernen – profitieren gleichermaßen von einer offenen, standardisierten Basis.
+
 
 ---
 
