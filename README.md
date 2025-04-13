@@ -8,7 +8,7 @@ A standards-first approach to resilient, auditable, and interoperable digital in
 > *„Anforderungen und Akzeptanzkriterien beschreiben, wie sich Software verhalten soll, Tests belegen das nachweisbar. Transparente Audits stehen für Verhalten von Software und werden somit unserer Verantwortung gerecht, die wir für digitale Infrastruktur tragen.“*
 
 Author: Sascha Block  
-Version: v1.0  
+Version: v1.1  
 License: CC BY 4.0
 
 ---
