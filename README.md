@@ -37,6 +37,8 @@ Die Informationen in diesem Repository dienen der Einordnung und Abgrenzung gege
 Die **Rulemapping-Methode** verfolgt wie **Gitsetze** das Ziel, gesetzliche Vorgaben maschinenlesbar zu machen und deren Anwendbarkeit in Verwaltungsprozesse zu überführen.  
 Dieser Ansatz ist stark anwendungsorientiert, fokussiert primär eine Domäne und adressiert damit vor allem juristische Strukturen und Entscheidungslogiken.
 
+Anders als bestehende proprietäre Testmanagementlösungen wie beispielsweise [Atlassian Xray](https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira) oder die Konfigurationssprache [Apple Pkl](https://pkl-lang.org/) verwirklicht eine derartige DSL versionierbare, auditierbare und validierbare Anforderungen, die auch rechtlichen, regulatorischen und ethischen Maßstäben standhalten.
+
 **Mein Vorhaben setzt früher an**:  
 Es schafft den strukturellen Unterbau für revisionssichere, digitale Prozesse – mit dem Ziel, einen sicheren Softwareentwicklungsprozess durch eine Git-integrierte, menschen- und maschinenlesbare Domain-Specific Language (DSL) zu etablieren.  
 
