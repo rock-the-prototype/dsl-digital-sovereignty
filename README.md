@@ -11,6 +11,13 @@ Author: Sascha Block
 Version: v1.1  
 License: CC BY 4.0
 
+## What are Domain Specific Languages (DSLs)?
+
+A Domain Specific Language is a programming language with a higher level of abstraction optimized for a specific class of problems. A DSL uses the concepts and rules from the field or domain.
+
+### How are Domain Specific Languages different from "real" programming languages?
+A Domain specific language is usually less complex than a general-purpose language, such as Java, C, or Ruby. Generally, DSLs are developed in close coordination with the experts in the field for which the DSL is being designed. In many cases, DSLs are intended to be used not by software people, but instead by non-programmers who are fluent in the domain the DSL addresses.
+
 ---
 
 Dieses Repository enthält ein öffentlich einsehbares Konzept mit einem technischen Vorschlag, das meine Vision einer Git-integrierten Domain-Specific Language (DSL) als Fundament für revisionssichere, transparente und interoperable digitale Infrastrukturen beschreibt.
