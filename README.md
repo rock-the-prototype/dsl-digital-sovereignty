@@ -9,7 +9,6 @@ A standards-first approach to resilient, auditable, and interoperable digital in
 
 Author: Sascha Block  
 Version: v1.1  
-License: CC BY 4.0
 
 ## What are Domain Specific Languages (DSLs)?
 
